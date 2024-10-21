@@ -1,4 +1,4 @@
-package com.example.androiddual
+package com.example.androiddual.codigo
 
 
 ///Si name no es nulo dame la posicion 3  de nombre pero si lo es dilo

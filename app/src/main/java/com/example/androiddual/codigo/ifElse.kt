@@ -1,4 +1,4 @@
-package com.example.androiddual
+package com.example.androiddual.codigo
 
 fun main() {
     ifMultipleOR()

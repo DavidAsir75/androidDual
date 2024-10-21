@@ -1,9 +1,9 @@
-package com.example.androiddual
+package com.example.androiddual.codigo
 
 fun main(){
-    mutableList()
+    inmutableList()
 }
-
+//Primero inmutable lista  Despues mutable List
 fun mutableList() {
     val frutas:MutableList<String> = mutableListOf("peras", "manzanas", "naranja", "limon", "cereza", "melon", "Sandia")
     frutas.add(3,"David")
@@ -38,7 +38,7 @@ fun inmutableList(){
     println(readOnly.first())
 
 //    Filtrar
-    val example = readOnly.filter { it.contains("a")  }
+    val example = readOnly.filter { it.contains("a")  }//it contiene cada valor de la lista
     println(example)
 
     //Iterar
