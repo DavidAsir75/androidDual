@@ -50,7 +50,7 @@ fun variablesAlfaNumericas() {
 
     //String
     val stringExample: String = "DamDual"
-    val stringExample2 = "AristiDevs"
+    val stringExample2 = "David"
     val stringExample3 = "4"
     val stringExample4 = "23"
 
