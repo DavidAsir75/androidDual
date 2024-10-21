@@ -2,8 +2,12 @@ package com.example.androiddual
 
 
 //Instanciar creas una referencia
-
+//
 val age: Int = 30
+
+//explicamos despues más abajo
+//val  variable inmutable
+//var  variable mutable
 
 
 fun main() {
